@@ -1,4 +1,4 @@
-# Covidprojectanalysis
+# Covid project analysis
 
 Here are summaries and documentation for each of the SQL data exploration tasks I worked on:
 
